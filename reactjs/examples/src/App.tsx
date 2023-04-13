@@ -7,7 +7,7 @@ import FunctionComponents from "./views/LifeCycle/FunctionComponents";
 import "./App.css";
 
 function App() {
-  return <FunctionComponents />;
+  return <SideBar />;
 }
 
 export default App;
